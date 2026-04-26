@@ -98,8 +98,8 @@ python3 UDPPingerServer.py
 python3 UDPPingerClient.py
 
 # Para testar em máquinas distintas: editar SERVER_HOST no cliente
+```
 
 **Autores:** Mateus Bastos Araújo, Pedro Henrique Ipiranga Araujo e Weverthom Thavisson de Souza
 
 **Disciplina:** Redes de Compuadores - PPGComp 2026
-```
