@@ -1,4 +1,4 @@
-# Relatório de Experimento — UDP Ping Client
+# UDP Ping Client
 
 ## 1. Descrição do Experimento
 
